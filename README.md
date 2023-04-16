@@ -1,5 +1,5 @@
 # Longest Increasing Subsequence Animations
-This repository contains a collection of animations designed to helps the leaners visualize the longest increasing subsequence problem. The animations provide an overview of the three primary methods for solving this problem: Naive Recursion Enumeration, Backtracking, and Dynamic Programming. They were created using the [Manim animation engine](https://www.manim.community/). [ Here](https://youtu.be/buB-VifgeNE) is the YouTube video with explanation using this animation. 
+This repository contains a collection of animations designed to helps the leaners visualize the longest increasing subsequence problem. The animations provide an overview of the three primary methods for solving this problem: Naive Recursion Enumeration, Backtracking, and Dynamic Programming. They were created using the [Manim animation engine](https://www.manim.community/). [ Here](https://youtu.be/buB-VifgeNE) is the YouTube video with explanations using this animation. 
 ![Naive Recursion Enumeration](project/assets/backtracking.jpg)
 
 ## Installations
