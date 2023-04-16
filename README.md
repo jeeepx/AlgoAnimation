@@ -1,6 +1,6 @@
 # Longest Increasing Subsequence Animations
-This repository contains a collection of animations designed to helps the student visualize the longest increasing subsequence problem. The animations provide an overview of the three primary methods for solving this problem: Naive Recursion Enumeration, Backtracking, and Dynamic Programming. They were created using the [Manim animation engine](https://www.manim.community/). [ Here](https://youtu.be/buB-VifgeNE) is the YouTube video with explanation for this animation. 
-![Naive Recursion Enumeration](project\assets\backtracking.jpg)
+This repository contains a collection of animations designed to helps the leaners visualize the longest increasing subsequence problem. The animations provide an overview of the three primary methods for solving this problem: Naive Recursion Enumeration, Backtracking, and Dynamic Programming. They were created using the [Manim animation engine](https://www.manim.community/). [ Here](https://youtu.be/buB-VifgeNE) is the YouTube video with explanation using this animation. 
+![Naive Recursion Enumeration](project/assets/backtracking.jpg)
 
 ## Installations
 1. [Install Manim](https://docs.manim.community/en/stable/installation.html)
@@ -10,7 +10,7 @@ This repository contains a collection of animations designed to helps the studen
 
 ### Example 
 To run the Naive Recusion Enumeration scene, run ```manim -pql LcsNaiveRecursion.py CreateLCSTree``` <br>
-![Naive Recursion Enumeration](project\assets\animationExample.png)
+![Naive Recursion Enumeration](project/assets/animationExample.png)
 
 
 
