@@ -81,7 +81,7 @@ class CreateLCSTree(MovingCameraScene):
 
         self.play(self.camera.frame.animate.set(
             width=n01.width*3).move_to(n01))
-        self.wait(1)
+        self.wait(5)
         self.play(Restore(self.camera.frame))
 
         #all other nodes animation
@@ -91,7 +91,7 @@ class CreateLCSTree(MovingCameraScene):
                     parent_node = 'n'+str(level-1)+str((time+2)//2)
                     self.play(self.camera.frame.animate.set(
                         width=n01.width*3).move_to(locals()[parent_node]))
-                    self.wait(1)
+                    self.wait(5)
                 cur_node = 'n'+str(level)+str(time+1)
                 self.play(self.camera.frame.animate.set(
                     width=n01.width*5).move_to(locals()[cur_node]))
