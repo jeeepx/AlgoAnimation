@@ -32,7 +32,7 @@ class CreateLCSTree(MovingCameraScene):
     def construct(self):
 
         # position of x and y coordinate relative to the root
-        x_position_offset = [0, 85, 60, 40, 30, 25, 10, 4]
+        x_position_offset = [0, 80, 60, 34, 22, 12, 6, 2]
         y_position_offset = [0, 2, 5, 8, 11, 14, 16.5, 18]
 
         """
